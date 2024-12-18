@@ -1,3 +1,14 @@
+# /// script
+# requires-python = ">=3.13"
+# dependencies = [
+#   "requests>=2.0.0",
+#	"beautifulsoup4>=4.9.0",
+#	"lxml>=4.6.0" 
+# ]
+# description = "A scrip to search and return links to ebooks(pdf)"
+# entry-point = "book_search.py"
+# ///
+
 import requests
 from bs4 import BeautifulSoup
 import re
