@@ -5,7 +5,7 @@
 #	"beautifulsoup4>=4.9.0",
 #	"lxml>=4.6.0" 
 # ]
-# description = "A scrip to search and return links to ebooks(pdf)"
+# description = "A script to search and return links to ebooks(pdf)"
 # entry-point = "book_search.py"
 # ///
 
