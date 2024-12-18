@@ -10,5 +10,5 @@ cd <repository_directory>
 ## Run the Script:
 Execute the script from the command line:
 ```bash
-python book_search.py
+uv run book_search.py
 ```
